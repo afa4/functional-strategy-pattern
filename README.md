@@ -21,3 +21,14 @@ implementation without need of this traditional stuff.
 
 You can just inject the behavior as a function reference
 direct on the constructor.
+
+## Code
+
+- [Base class](src/main/kotlin/Duck.kt)
+- [Strategies](src/main/kotlin/QuackStrategies.kt)
+- [Example](src/main/kotlin/Main.kt)
+
+## References
+
+- [Strategy Pattern – Design Patterns (ep 1)](https://www.youtube.com/watch?v=v9ejT8FO-7I)
+- [Strategy pattern in functional programming](https://medium.com/@itachi.hasegawa/strategy-pattern-in-functional-programming-38ddcc2b2d50)
