@@ -1,4 +1,4 @@
-##Strategy pattern
+## Strategy pattern
 
 Class behavior is injected, so its possible to have
 multiple instances of the same class with different
